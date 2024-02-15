@@ -10,6 +10,7 @@ Users can interact with the application by adjusting verification criteria for g
 
 ![alt text](./images/a2.PNG)
 
+
 - [Github Repo](https://github.com/azraimahadan/Face-Analysis-for-Customer-Segmentation)
 - [Brochure](https://github.com/azraimahadan/Face-Analysis-for-Customer-Segmentation/blob/main/poster.PNG)
 
@@ -21,7 +22,8 @@ Technologies used:
 
 Build an application leveraging BERT language model for skill extraction from job descriptions. This tool employs advanced natural language processing techniques and fine-tuned LLM to automatically identify and extract essential skills, enhancing the efficiency of talent acquisition processes
 
-![alt text](./images/b1.PNG)
+<!-- ![alt text](./images/b1.PNG) -->
+<img src="./images/b1.PNG" width="350" height="300">
 
 - [Github Repo](https://github.com/azraimahadan/skill-extraction-with-bert)
 - [Streamlit App](https://skill-extraction-with-bert-yvf7zfcahggh5zyi6zfgwn.streamlit.app/)
@@ -39,10 +41,11 @@ Build an application for time series forecasting using Facebook Prophet. This ap
 ![alt text](./images/c2.PNG)
 
 - [Github Repo](https://github.com/azraimahadan/prophet-forecast)
+- [Web App](https://prophet-forecast-jyorxovb3vkvsv7ewbwmkq.streamlit.app/)
 
 Technologies used: Python, Fbprophet, Pandas Streamlit
 
-## Essay Score Prediction with Writing Style
+## Linking Writing Style with Essay Score 
 
 Build 2 types of ML model, Light Gradient Boost Machine(LGBM) and Linear Regression to explore the relationship between learners’ writing behaviors and writing performance, which could provide valuable insights for intelligent tutoring systems. The project leverage Optuna as a faster way to optimizing hyperarameter of LGBM to provide better model performance.
 
